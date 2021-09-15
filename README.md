@@ -1,2 +1,2 @@
 # socialmedia-trends-2021
-isadesign newsarticle
+isadesign - nieuwsartikel socialmedia trends 2021
